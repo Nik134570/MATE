@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MATE</string>
+    <string name="LogIn"><u>Login</u></string>
+    <string name="SignUp"><u>SignUp</u></string>
+    <string name="maks"><u>Maksimchik16</u></string>
+    <string name="maks_place"><u>Molodeznaya 56</u></string>
+    <string name="more_information"><u>more information</u></string>
+    <string name="number1"><u>3/12</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

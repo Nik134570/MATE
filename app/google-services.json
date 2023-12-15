@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739745252071",
+    "project_id": "logsignsql-b09e1",
+    "storage_bucket": "logsignsql-b09e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739745252071:android:0581c9a2c51fad21a09842",
+        "android_client_info": {
+          "package_name": "com.example.logsignsql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739745252071-1sd86sdooqij2grcvo3o41q7soqgfkve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpZPGRy14RGKD_ptwzxjcu3vIjRkA-5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739745252071-1sd86sdooqij2grcvo3o41q7soqgfkve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
